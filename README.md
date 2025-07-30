@@ -1,5 +1,3 @@
-# Pizzas_Sales-using-SQL
-
 # 🍕 SQL Pizza Sales Analysis
 
 This project involves analyzing pizza sales data using SQL. It answers key business questions such as sales performance, customer behavior, product popularity, and revenue distribution to derive actionable insights for data-driven decision-making.
@@ -185,6 +183,9 @@ FROM (
     ) AS A
 ) AS B
 WHERE RN <= 3;
+```
+
+---
 
 ## ✅ Key Takeaways
 
@@ -199,3 +200,4 @@ WHERE RN <= 3;
 * **SQL (MySQL)**
 * **Data Cleaning & Joins**
 * **Aggregate Functions, CTEs, Window Functions**
+
